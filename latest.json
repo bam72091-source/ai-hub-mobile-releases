@@ -1,0 +1,9 @@
+{
+  "versionCode": 5,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.1.0/AI-Hub-Mobile-1.1.0.apk",
+  "sha256": "de929c1a66ed8e1b763149384643b96527b186536213742454143de9d941ea60",
+  "size": 27687881,
+  "minSdk": 29,
+  "notes": "Shows the app version in Settings, adds in-app updates, fixes scrolling to the end of long answers, and makes fallback notes short and clear."
+}
