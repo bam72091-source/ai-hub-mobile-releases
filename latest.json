@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.1.0/AI-Hub-Mobile-1.1.0.apk",
-  "sha256": "de929c1a66ed8e1b763149384643b96527b186536213742454143de9d941ea60",
-  "size": 27687881,
+  "versionCode": 6,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.2.0/AI-Hub-Mobile-1.2.0.apk",
+  "sha256": "6b5e983ec0ae3bbd518923309bf7313b18a47f6f842b927beef98b21bb4a49b6",
+  "size": 27700741,
   "minSdk": 29,
-  "notes": "Shows the app version in Settings, adds in-app updates, fixes scrolling to the end of long answers, and makes fallback notes short and clear."
+  "notes": "AI Hub now tells each AI it's part of your hub and which AI wrote each earlier answer, so they stop taking credit for each other's replies. Start a message with an AI's name (for example \"grok answer me\", \"@claude ...\", \"gemini: ...\" or \"ask gemini ...\") to send it straight to that AI. Personal messages still stay local, and the Grok weekly limit still applies."
 }
