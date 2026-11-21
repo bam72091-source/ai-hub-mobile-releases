@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.2.0/AI-Hub-Mobile-1.2.0.apk",
-  "sha256": "6b5e983ec0ae3bbd518923309bf7313b18a47f6f842b927beef98b21bb4a49b6",
-  "size": 27700741,
+  "versionCode": 7,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.3.0/AI-Hub-Mobile-1.3.0.apk",
+  "sha256": "3c5151ff0012b985a4e0c1af5f9b129902e8906d34c947f97d2ffd37c191102e",
+  "size": 27724249,
   "minSdk": 29,
-  "notes": "AI Hub now tells each AI it's part of your hub and which AI wrote each earlier answer, so they stop taking credit for each other's replies. Start a message with an AI's name (for example \"grok answer me\", \"@claude ...\", \"gemini: ...\" or \"ask gemini ...\") to send it straight to that AI. Personal messages still stay local, and the Grok weekly limit still applies."
+  "notes": "Every AI in the hub now talks as one assistant called Hub, with a Grok-style voice: warm, witty and to the point, and no more \"I'm Claude\" or \"I'm Gemini\". In Settings, under Personality, you can rename it, pick a style (Grok-like, Straight to the point, or Friendly coach) and add your own instructions. Answers look cleaner too, with a small \"via Claude\" label and smaller thumbs."
 }
