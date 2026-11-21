@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.4.0/AI-Hub-Mobile-1.4.0.apk",
-  "sha256": "cca6f6481d65fd4a360cbe54d0297f3df4abbdd820d464076f86a8b89041da7b",
-  "size": 27785009,
+  "versionCode": 9,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.4.1/AI-Hub-Mobile-1.4.1.apk",
+  "sha256": "201bf9296de51d81b1002c4b26807c5b930873d24e268c7c1148cec7bda20fc3",
+  "size": 27807145,
   "minSdk": 29,
-  "notes": "Much faster answers. If Gemini is busy or slow to start, AI Hub now moves on to Claude within a few seconds instead of waiting for it to time out. With \"Faster answers\" on (Settings, on by default), it asks Claude too after 3 seconds and keeps whichever answers first. Grok and your Home Hub are never used that way. An AI that was busy recently gets skipped for a while. While you wait, the bubble shows what's happening, like \"Asking Gemini\u2026\". A brief connection drop is retried once automatically."
+  "notes": "Settings sections now start closed each time you open Settings."
 }
