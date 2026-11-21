@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.3.0/AI-Hub-Mobile-1.3.0.apk",
-  "sha256": "3c5151ff0012b985a4e0c1af5f9b129902e8906d34c947f97d2ffd37c191102e",
-  "size": 27724249,
+  "versionCode": 8,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.4.0/AI-Hub-Mobile-1.4.0.apk",
+  "sha256": "cca6f6481d65fd4a360cbe54d0297f3df4abbdd820d464076f86a8b89041da7b",
+  "size": 27785009,
   "minSdk": 29,
-  "notes": "Every AI in the hub now talks as one assistant called Hub, with a Grok-style voice: warm, witty and to the point, and no more \"I'm Claude\" or \"I'm Gemini\". In Settings, under Personality, you can rename it, pick a style (Grok-like, Straight to the point, or Friendly coach) and add your own instructions. Answers look cleaner too, with a small \"via Claude\" label and smaller thumbs."
+  "notes": "Much faster answers. If Gemini is busy or slow to start, AI Hub now moves on to Claude within a few seconds instead of waiting for it to time out. With \"Faster answers\" on (Settings, on by default), it asks Claude too after 3 seconds and keeps whichever answers first. Grok and your Home Hub are never used that way. An AI that was busy recently gets skipped for a while. While you wait, the bubble shows what's happening, like \"Asking Gemini\u2026\". A brief connection drop is retried once automatically."
 }
