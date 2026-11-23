@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.5.0/AI-Hub-Mobile-1.5.0.apk",
-  "sha256": "60bd7aaaa7928db6791f43b00572f1576132908aebfeb083d5651a8c7d78dda3",
-  "size": 27816969,
+  "versionCode": 11,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.6.0/AI-Hub-Mobile-1.6.0.apk",
+  "sha256": "496428f9e72ae4eb56103cbe0fe9418dd42b06e7a9a1330db1746e7bd27ba8f0",
+  "size": 28124619,
   "minSdk": 29,
-  "notes": "New: share text from Grok (or any app) to AI Hub. It lands in the chat box so you can edit it and tap Send."
+  "notes": "New: voice. Tap the mic to talk instead of type, tap the speaker under an answer to hear it, or turn on Read answers out loud in Settings."
 }
