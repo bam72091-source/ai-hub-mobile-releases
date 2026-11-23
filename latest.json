@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.4.1/AI-Hub-Mobile-1.4.1.apk",
-  "sha256": "201bf9296de51d81b1002c4b26807c5b930873d24e268c7c1148cec7bda20fc3",
-  "size": 27807145,
+  "versionCode": 10,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.5.0/AI-Hub-Mobile-1.5.0.apk",
+  "sha256": "60bd7aaaa7928db6791f43b00572f1576132908aebfeb083d5651a8c7d78dda3",
+  "size": 27816969,
   "minSdk": 29,
-  "notes": "Settings sections now start closed each time you open Settings."
+  "notes": "New: share text from Grok (or any app) to AI Hub. It lands in the chat box so you can edit it and tap Send."
 }
