@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.0/AI-Hub-Mobile-1.8.0.apk",
-  "sha256": "b25743717d34ed7340128559fc17a12246e6344faf8414ba9e494bc8e08a423f",
-  "size": 28982195,
+  "versionCode": 14,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.1/AI-Hub-Mobile-1.8.1.apk",
+  "sha256": "132d2f28f3f2ca573b88665d21c0d51fad691f363d98d01934829ee605dae661",
+  "size": 28332295,
   "minSdk": 29,
-  "notes": "Projects side list (\u2630) with separate chats per project, plus \ud83e\udd16 Send to bot via the new Bot relay in Settings."
+  "notes": "Fix: Send to bot no longer blocks normal answers, and says why when it does block."
 }
