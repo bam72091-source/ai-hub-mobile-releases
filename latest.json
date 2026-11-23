@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.6.0/AI-Hub-Mobile-1.6.0.apk",
-  "sha256": "496428f9e72ae4eb56103cbe0fe9418dd42b06e7a9a1330db1746e7bd27ba8f0",
-  "size": 28124619,
+  "versionCode": 12,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.7.0/AI-Hub-Mobile-1.7.0.apk",
+  "sha256": "55e7f687373f272eaf0cc4f4d2b52655b92549397dd184ff59e4d34c7b610df3",
+  "size": 28037923,
   "minSdk": 29,
-  "notes": "New: voice. Tap the mic to talk instead of type, tap the speaker under an answer to hear it, or turn on Read answers out loud in Settings."
+  "notes": "New: send photos, PDFs and text files (\ud83d\udcce or Share). Gemini works more reliably, with a Test Gemini button in Settings."
 }
