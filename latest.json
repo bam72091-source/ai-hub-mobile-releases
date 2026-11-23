@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.7.0/AI-Hub-Mobile-1.7.0.apk",
-  "sha256": "55e7f687373f272eaf0cc4f4d2b52655b92549397dd184ff59e4d34c7b610df3",
-  "size": 28037923,
+  "versionCode": 13,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.0/AI-Hub-Mobile-1.8.0.apk",
+  "sha256": "b25743717d34ed7340128559fc17a12246e6344faf8414ba9e494bc8e08a423f",
+  "size": 28982195,
   "minSdk": 29,
-  "notes": "New: send photos, PDFs and text files (\ud83d\udcce or Share). Gemini works more reliably, with a Test Gemini button in Settings."
+  "notes": "Projects side list (\u2630) with separate chats per project, plus \ud83e\udd16 Send to bot via the new Bot relay in Settings."
 }
