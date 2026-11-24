@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.1/AI-Hub-Mobile-1.8.1.apk",
-  "sha256": "132d2f28f3f2ca573b88665d21c0d51fad691f363d98d01934829ee605dae661",
-  "size": 28332295,
+  "versionCode": 15,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.2/AI-Hub-Mobile-1.8.2.apk",
+  "sha256": "8c2498767c37bdf5542fde2ee8a6d62512b88e0696eace3e18b6dc26938c9189",
+  "size": 28337239,
   "minSdk": 29,
-  "notes": "Fix: Send to bot no longer blocks normal answers, and says why when it does block."
+  "notes": "Fix: job searches (budget analyst, health benefits, and similar) are no longer held as personal. Your own money and health still stay with Jarvis."
 }
