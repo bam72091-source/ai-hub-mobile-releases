@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.8.2/AI-Hub-Mobile-1.8.2.apk",
-  "sha256": "8c2498767c37bdf5542fde2ee8a6d62512b88e0696eace3e18b6dc26938c9189",
-  "size": 28337239,
+  "versionCode": 16,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.9.0/AI-Hub-Mobile-1.9.0.apk",
+  "sha256": "151825976f25cbbfa293b8ae74e6d6430ccb855c3d5d708a60217664310a8d4e",
+  "size": 28430299,
   "minSdk": 29,
-  "notes": "Fix: job searches (budget analyst, health benefits, and similar) are no longer held as personal. Your own money and health still stay with Jarvis."
+  "notes": "New: live web search. Job searches, news and prices now come back with real results and tappable source links (needs a Gemini key with billing on). Tap \ud83c\udf10 to search for any message."
 }
