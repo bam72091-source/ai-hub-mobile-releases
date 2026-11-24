@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.9.0/AI-Hub-Mobile-1.9.0.apk",
-  "sha256": "151825976f25cbbfa293b8ae74e6d6430ccb855c3d5d708a60217664310a8d4e",
-  "size": 28430299,
+  "versionCode": 17,
+  "versionName": "1.10.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.10.0/AI-Hub-Mobile-1.10.0.apk",
+  "sha256": "ca170ba260eccf9ea9b7598ae6a8c47641fcff10322e94d104724585f26c9bf3",
+  "size": 28457203,
   "minSdk": 29,
-  "notes": "New: live web search. Job searches, news and prices now come back with real results and tappable source links (needs a Gemini key with billing on). Tap \ud83c\udf10 to search for any message."
+  "notes": "New: ChatGPT as a fifth AI. Paste an OpenAI API key in Settings (needs billing at platform.openai.com; ChatGPT Plus doesn't cover it). Usage now shows cost estimates."
 }
