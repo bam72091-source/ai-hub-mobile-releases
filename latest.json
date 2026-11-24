@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.10.1",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.10.1/AI-Hub-Mobile-1.10.1.apk",
-  "sha256": "b7856ffb8434d05309dc52b817164ce122be97d3c71dc194d8522c9a43108563",
-  "size": 28917863,
+  "versionCode": 19,
+  "versionName": "1.10.2",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.10.2/AI-Hub-Mobile-1.10.2.apk",
+  "sha256": "c11783306d2beb5d687280ffa2841ca2c8874c097439e83ae9c8ab56aeb2a72b",
+  "size": 28493863,
   "minSdk": 29,
-  "notes": "Fix: Test Claude button added, Gemini test errors now say what went wrong, and a key that passes its test is saved automatically."
+  "notes": "Send to bot / Copy now include source links"
 }
