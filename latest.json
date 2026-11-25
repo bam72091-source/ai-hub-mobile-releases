@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.10.2",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.10.2/AI-Hub-Mobile-1.10.2.apk",
-  "sha256": "b53b90b4125795ff1047be775d74403453a4cc592dc7b24c6ec9b360d28c0288",
-  "size": 29218599,
+  "versionCode": 20,
+  "versionName": "1.10.3",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.10.3/AI-Hub-Mobile-1.10.3.apk",
+  "sha256": "4aae3af89b36594418e14f5af2f52f67ed1e6690f361d3e4d48745f4eb2bf5bc",
+  "size": 28506167,
   "minSdk": 29,
-  "notes": "Send to bot / Copy include source links; link lists collapsed by default"
+  "notes": "New answers no longer repeat earlier replies"
 }
