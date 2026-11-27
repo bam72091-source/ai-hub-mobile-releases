@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.11.0/AI-Hub-Mobile-1.11.0.apk",
-  "sha256": "69085cd8ce7a75852cd6fcab5bb852bb165dc6b92e5acce453dccba39ed15eb2",
-  "size": 28553175,
+  "versionCode": 22,
+  "versionName": "1.12.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.12.0/AI-Hub-Mobile-1.12.0.apk",
+  "sha256": "70f830ea5a814f4289e2f6c4a324ce2eb27d51604288e34c44668fdc75c7024d",
+  "size": 28640999,
   "minSdk": 29,
-  "notes": "New look, Answered-by tags, and a Home Hub warning if Tailscale is off"
+  "notes": "Smarter routing, side-by-side Winner, and code/page preview"
 }
