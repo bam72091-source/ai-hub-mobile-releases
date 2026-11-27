@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.13.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.13.0/AI-Hub-Mobile-1.13.0.apk",
-  "sha256": "90f43e91c404975389a6bfb2ad73d0782633da7e61d4070619729022fb986f23",
-  "size": 28701003,
+  "versionCode": 24,
+  "versionName": "1.14.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.14.0/AI-Hub-Mobile-1.14.0.apk",
+  "sha256": "fe3ac0e6cda7fd8cc3dfff681c80f6538b4cf4c89ddb5fbd700401ac9cb2370f",
+  "size": 28858451,
   "minSdk": 29,
-  "notes": "Team mode: several AIs draft, critique, and merge one answer"
+  "notes": "Scheduled routines: saved prompts run in the background and notify you"
 }
