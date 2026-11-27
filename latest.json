@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "1.15.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.15.0/AI-Hub-Mobile-1.15.0.apk",
-  "sha256": "0454cd6c4547cf3aeb51dfd2565d83bb9d158c84abf092380cb3b240a9c36032",
-  "size": 28889587,
+  "versionCode": 26,
+  "versionName": "1.16.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.16.0/AI-Hub-Mobile-1.16.0.apk",
+  "sha256": "e2defce34d939231ea62b201f68e078bfdf02c0a889420532815a3df9c44b9c2",
+  "size": 28950039,
   "minSdk": 29,
-  "notes": "Game mode: pause Jarvis on the gaming PC and use the family PC"
+  "notes": "Store-ready build: privacy policy, report button, and delete-account. Use the GitHub APK for daily use; the store APK is also attached."
 }
