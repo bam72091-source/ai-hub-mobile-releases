@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "1.14.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.14.0/AI-Hub-Mobile-1.14.0.apk",
-  "sha256": "fe3ac0e6cda7fd8cc3dfff681c80f6538b4cf4c89ddb5fbd700401ac9cb2370f",
-  "size": 28858451,
+  "versionCode": 25,
+  "versionName": "1.15.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.15.0/AI-Hub-Mobile-1.15.0.apk",
+  "sha256": "0454cd6c4547cf3aeb51dfd2565d83bb9d158c84abf092380cb3b240a9c36032",
+  "size": 28889587,
   "minSdk": 29,
-  "notes": "Scheduled routines: saved prompts run in the background and notify you"
+  "notes": "Game mode: pause Jarvis on the gaming PC and use the family PC"
 }
