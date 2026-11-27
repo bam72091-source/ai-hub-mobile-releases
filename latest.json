@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.12.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.12.0/AI-Hub-Mobile-1.12.0.apk",
-  "sha256": "70f830ea5a814f4289e2f6c4a324ce2eb27d51604288e34c44668fdc75c7024d",
-  "size": 28640999,
+  "versionCode": 23,
+  "versionName": "1.13.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.13.0/AI-Hub-Mobile-1.13.0.apk",
+  "sha256": "90f43e91c404975389a6bfb2ad73d0782633da7e61d4070619729022fb986f23",
+  "size": 28701003,
   "minSdk": 29,
-  "notes": "Smarter routing, side-by-side Winner, and code/page preview"
+  "notes": "Team mode: several AIs draft, critique, and merge one answer"
 }
