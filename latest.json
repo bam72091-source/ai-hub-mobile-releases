@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "1.16.1",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.16.1/AI-Hub-Mobile-1.16.1.apk",
-  "sha256": "ff3602979ad0bd005040633728ea123aac78097e7e31f484fb344b7786e871bf",
-  "size": 28954267,
+  "versionCode": 28,
+  "versionName": "1.17.0",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.17.0/AI-Hub-Mobile-1.17.0.apk",
+  "sha256": "3a8670bbf1ce34b416e3556b768203f55aac6b282e4b730183f1d49bcda6ee7a",
+  "size": 29039215,
   "minSdk": 29,
-  "notes": "The message box now sits full-width under the icon row, so it is no longer squished on a phone."
+  "notes": "Bot-to-app Inbox: the Grok Bot can drop questions into a private repo; the app picks them up, routes them with the usual privacy rules, and notifies you."
 }
