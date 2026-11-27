@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "1.16.0",
-  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.16.0/AI-Hub-Mobile-1.16.0.apk",
-  "sha256": "e2defce34d939231ea62b201f68e078bfdf02c0a889420532815a3df9c44b9c2",
-  "size": 28950039,
+  "versionCode": 27,
+  "versionName": "1.16.1",
+  "apkUrl": "https://github.com/bam72091-source/ai-hub-mobile-releases/releases/download/v1.16.1/AI-Hub-Mobile-1.16.1.apk",
+  "sha256": "ff3602979ad0bd005040633728ea123aac78097e7e31f484fb344b7786e871bf",
+  "size": 28954267,
   "minSdk": 29,
-  "notes": "Store-ready build: privacy policy, report button, and delete-account. Use the GitHub APK for daily use; the store APK is also attached."
+  "notes": "The message box now sits full-width under the icon row, so it is no longer squished on a phone."
 }
